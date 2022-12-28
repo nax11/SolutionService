@@ -1,0 +1,13 @@
+/.idea
+/.vscode
+.tags*
+/log
+/*/log
+/*/*/log
+/logs/*
+/tmp
+/*.coverprofile
+/coverage.txt
+/debug.log
+/profile.txt
+/vendor
